@@ -11,7 +11,7 @@ mundial de computadores e acessado por aplicativo mobile (em smartphones ou tabl
 computadores convencionais.
 
 
-## Links com maerial de apoio
+## Links com material de apoio
 
 * [Django e PostGis 1/3](https://medium.com/@h4k1m0u/displaying-a-map-in-a-django-webapp-1-3-creating-a-gis-database-with-postgresql-and-postgis-e596d3c2310)
 * [Django e PostGis 2/3](https://medium.com/@h4k1m0u/displaying-a-map-in-a-django-webapp-2-3-develop-a-gis-webapp-with-geodjango-c831522ccf79)
