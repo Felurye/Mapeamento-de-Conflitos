@@ -3,7 +3,8 @@
 from openpyxl import load_workbook
 
 #lendo o arquiv
-f = load_workbook('minha_planilha.xlsx')
+f = load_workbook('dados-exemplo.xlsx')
+
 #lendo a planilha dentro do arquivo
 item = f['Plan1']
 #delcaracao de array para receber os valores da planilha
